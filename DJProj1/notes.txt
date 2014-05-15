@@ -1,0 +1,23 @@
+http://www.tangowithdjango.com/book/index.html
+install python
+set path
+set pythonpath
+
+install eclipse
+install pydev plugin
+
+install github
+create account xype2 using email philip.french@hotmail.co.uk  and BT99
+
+download and install github for windows (client)
+
+download TortoiseGit https://code.google.com/p/tortoisegit/wiki/Download
+
+
+create repository repo1
+
+create new local repository C:\Users\Philip French\Documents\GitHub
+
+github
+
+BT99
